@@ -1,3 +1,4 @@
+//яр опбр
 #pragma once
 #include "Fio.h"
 #include <stdio.h>
